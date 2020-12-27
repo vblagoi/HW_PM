@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Animation3">
+   </FileRef>
+   <FileRef
+      location = "group:Animation1">
+   </FileRef>
+   <FileRef
+      location = "group:Animation4">
+   </FileRef>
+   <FileRef
+      location = "group:Calculator">
+   </FileRef>
+   <FileRef
+      location = "group:Task3">
+   </FileRef>
+   <FileRef
+      location = "group:Task4">
+   </FileRef>
+</Workspace>
